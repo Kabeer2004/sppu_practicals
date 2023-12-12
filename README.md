@@ -1,2 +1,10 @@
-# sppu_practicals
-Uploading all the programs I wrote for solving various problem statements of SPPU Practical Exams. 
+#SPPU Practicals
+
+sup
+
+this repository contains programs for some of the problem statements of the following subjects:
+
+- Computer Graphics
+- Object Oriented Programming
+- Fundamentals of Data Structures 
+(more will be added as the semesters roll by lol)
