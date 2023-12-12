@@ -73,6 +73,28 @@ int main()
 				ycurr = ycurr - m;
 			}
 		}
+		if ((y1 < y2)&&(m>1)&&(dely>dx))
+		{
+			float xcurr = x1, ycurr = y1;
+			for (int i = 1; i<steps; i++)
+			{
+				xpoints[i] = xcurr + 1/m;
+				xcurr = xcurr + 1/m;
+				ypoints[i] = ycurr + 1;
+				ycurr = ycurr + 1;
+			}
+		}
+		if ((y1 > y2)&&(m>1)&&(dely>dx))
+		{
+			float xcurr = x1, ycurr = y1;
+			for (int i = 1; i<steps; i++)
+			{
+				xpoints[i] = xcurr - 1/m;
+				xcurr = xcurr - 1/m;
+				ypoints[i] = ycurr - 1;
+				ycurr = ycurr - 1;
+			}
+		}
 	}
 	for (int i = 0; i<steps; i++)
 	{
