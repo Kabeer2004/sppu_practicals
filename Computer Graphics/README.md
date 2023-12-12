@@ -1,12 +1,12 @@
 this folder contains programs for the following problem statements:
 
-practical 1: to draw a line using the Digital Differential Analyzer Algorithm
-practical 2: to draw a circle using Bresenham's Circle Algorithm
-practical 4: to clip a line in a window using Cohen Southerland's Line Clipping algorithm
-practical 5: to draw the circumcircle and incircle of a given triangle
-practical 6: to draw a 2D object and perform scaling, translation and rotation operations on it
-practical 7: to draw a Sunrise and Sunset using the graphics library
-practical 8: to control a ball using arrow keys
+- practical 1: to draw a line using the Digital Differential Analyzer Algorithm
+- practical 2: to draw a circle using Bresenham's Circle Algorithm
+- practical 4: to clip a line in a window using Cohen Southerland's Line Clipping algorithm
+- practical 5: to draw the circumcircle and incircle of a given triangle
+- practical 6: to draw a 2D object and perform scaling, translation and rotation operations on it
+- practical 7: to draw a Sunrise and Sunset using the graphics library
+- practical 8: to control a ball using arrow keys
 
 # outputs:
 practical 1:
